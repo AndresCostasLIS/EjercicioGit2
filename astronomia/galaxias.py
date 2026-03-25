@@ -1,1 +1,1 @@
-planetas = ["Mercurio","Venus","Tierra","Marte","Jupiter"]
+galaxias = ["Galaxia1","Galaxia2","Galaxia3","Galaxia4","Galaxia5"]
